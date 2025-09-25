@@ -1,0 +1,17 @@
+h1{
+    size: 2.4rem;
+    font-weight: bolder;
+    color: red;
+}
+h2{
+    text-decoration: underline;
+    size: 1.8rem;
+    font-weight: bolder;
+    color: red;
+}
+p{
+    size: 1.2rem;
+}
+img{
+    border: 2px solid red;  
+}
